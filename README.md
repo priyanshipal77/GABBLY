@@ -1,4 +1,4 @@
-# Babble - MERN Stack Chat Application
+# Gabbly - MERN Stack Chat Application
 
 Babble is a full-stack chat application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create accounts, join chat rooms, and engage in real-time conversations with other users. With features like user authentication, group chats, and more, Babble provides a seamless and interactive chatting experience.
 
